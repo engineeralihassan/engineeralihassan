@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">A passionate Full Stack software engineer</h3>
-<img align='center' src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" alt="coding-image">
+<h1 align="center">Hi 👋, I'm Ali Hassan Full stack Developer</h1>
+<br/>
+<img align='center' src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" alt="coding-image"><br>
+<br/>
+<h3 align='center' >I’m a Full Stack Developer with 2 years of hands-on experience in creating web applications. I’m comfortable working on both the frontend and backend. On the backend, I use Node.js, Express, MongoDB, and PostgreSQL to build and manage server-side functionality. For the frontend, I work with HTML, CSS, SASS, and Bootstrap to create responsive designs, and I use JavaScript, TypeScript, Angular, React, and Next.js to make user interfaces interactive and modern. I’ve tackled a variety of projects so far, and I’m always eager to learn and take on new challenges. </h3>
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engineeralihassan" alt="engineeralihassan" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js,Next.Js,AWS,Advance level of SQL**
