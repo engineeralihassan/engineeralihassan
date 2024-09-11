@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Hassan Full stack Developer</h1>
+<h1 align="center">Hi there 👋🏾 welcome to my Github! I like to write in JavaScript and I’m exploring Cloud Tech</h1>
 <br/>
 <img align='center' src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" alt="coding-image"><br>
 <br/>
